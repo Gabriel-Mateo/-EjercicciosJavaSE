@@ -1,0 +1,15 @@
+package practicaMath;
+
+public class UsoMath {
+
+	public static void main(String[] args) {
+	
+		int cuadrado = 9;
+		
+		System.out.println(Math.sqrt(cuadrado);
+		
+		
+
+	}
+
+}

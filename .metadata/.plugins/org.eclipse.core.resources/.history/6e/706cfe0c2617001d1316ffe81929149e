@@ -1,0 +1,16 @@
+package practicaMath;
+
+public class UsoMath {
+
+	public static void main(String[] args) {
+	
+		double cuadrado = Math.sqrt(100);
+		double pI =  Math.PI;
+		
+		System.out.println(Math.sqrt(cuadrado));
+		System.out.println(Math.sqrt(pI));
+		
+
+	}
+
+}

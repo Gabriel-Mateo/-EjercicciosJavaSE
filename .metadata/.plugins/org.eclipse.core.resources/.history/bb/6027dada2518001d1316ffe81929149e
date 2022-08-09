@@ -10,8 +10,6 @@ public class UsoMath {
 		System.out.println("El cuadrado de " +numero+ " es: " +cuadrado);
 		System.out.println(Math.sqrt(pI));
 		
-		int mumero = 100;
-		
 
 	}
 

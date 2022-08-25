@@ -12,8 +12,6 @@ public class UsoMath {
 		
 		int mumero = 100;
 		
-		System.out.println(Math.ceil(Math.random()*mumero));
-		
 
 	}
 
